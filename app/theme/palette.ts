@@ -1,11 +1,16 @@
 export const palette = {
+  dark: '#01172F',
   black: "#1d1d1d",
   white: "#ffffff",
   offWhite: "#e6e6e6",
   orange: "#FBA928",
   orangeDarker: "#EB9918",
-  lightGrey: "#939AA4",
+  lightGrey: "#F7F7F7",
   lighterGrey: "#CDD4DA",
   angry: "#dd3333",
   deepPurple: "#5D2555",
+  lightTeal: "#80C3CD",
+  fbBlue: '#3B5998',
+  yellow: '#F4D93C',
+  lightYellow: '#FFF9D6',
 }

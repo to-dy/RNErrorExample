@@ -37,8 +37,8 @@ export function MainNavigator() {
         headerShown: false,
       }}
     >
+      {/* <Stack.Screen name="demo" component={DemoScreen} /> */}
       <Stack.Screen name="welcome" component={WelcomeScreen} />
-      <Stack.Screen name="demo" component={DemoScreen} />
       <Stack.Screen name="demoList" component={DemoListScreen} />
     </Stack.Navigator>
   )
